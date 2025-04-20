@@ -1,6 +1,6 @@
 # Lista de Pesquisa Operacional
 
-Segunda questão de Pesquisa Operacional para uma lista avaliativa, desenvolvido por **Diogo Amorim** e **Davi Romão**. Os códigos, escritos em C++ com a biblioteca **CPLEX**, resolvem problemas clássicos de programação linear inteira modelados em aula.
+Segunda questão de Pesquisa Operacional para lista avaliativa, desenvolvido por **Diogo Amorim** e **Davi Romão**. Os códigos, escritos em C++ com a biblioteca **CPLEX**, resolvem problemas clássicos de programação linear inteira modelados em aula.
 
 ## Problemas Resolvidos
 
