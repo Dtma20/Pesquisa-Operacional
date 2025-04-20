@@ -1,6 +1,6 @@
 # Lista de Pesquisa Operacional
 
-Este arquivo contém a implementação de um algoritmo heurístico para o problema de empacotamento de caixas (bin packing), desenvolvido por **Diogo Amorim** e **Davi Romão** como parte de uma lista avaliativa de Pesquisa Operacional. O código, escrito em C++, utiliza a heurística Best-Fit Decreasing (BFD) combinada com Iterated Local Search (ILS) para minimizar o número de caixas.
+Este arquivo contém a implementação de um algoritmo heurístico para o problema de empacotamento de caixas (bin packing), desenvolvido por **Diogo Amorim** e **Davi Romão** como parte da lista avaliativa da displina de Pesquisa Operacional. O código, escrito em C++, utiliza a heurística Best-Fit Decreasing (BFD) combinada com Iterated Local Search (ILS) para minimizar o número de caixas.
 
 ## Descrição do Problema
 
